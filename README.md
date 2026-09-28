@@ -39,8 +39,11 @@ Python 3.x；torch、snntorch、scipy、matplotlib（版本见 requirements.txt�
 
 | 成员 | 负责模块 | 对应目录 |
 |------|----------|----------|
-| 廖锦程（项目负责人） | 沙堆模型仿真、SNN训练、雪崩统计、论文撰写 | sandpile/、snn_training/、avalanche_analysis/ |
+| 廖锦程（项目负责人） | 沙堆模型仿真 | sandpile/ |
+| 易家鸣 | SNN训练脚本与调参 | snn_training/ |
+| 杨添宇 | 雪崩统计与幂律拟合 | avalanche_analysis/ |
 | 李家忆 | MLP时间序列预测模型 | mlp_prediction/ |
+| 王克雷 | 研究报告撰写 | — |
 
 > 如有遗漏或分工标注不准确，请联系仓库维护者更正。
 
