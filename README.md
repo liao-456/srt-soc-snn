@@ -33,6 +33,17 @@ Python 3.x；torch、snntorch、scipy、matplotlib（版本见 requirements.txt�
 - 图3–图5 ← snn_training 目录
 - 图6/图7 ← mlp_prediction 目录
 
+## 贡献者
+
+本项目为贵州大学SRT团队协作成果，代码按模块分工完成：
+
+| 成员 | 负责模块 | 对应目录 |
+|------|----------|----------|
+| 廖锦程（项目负责人） | 沙堆模型仿真、SNN训练、雪崩统计、论文撰写 | sandpile/、snn_training/、avalanche_analysis/ |
+| 李家忆 | MLP时间序列预测模型 | mlp_prediction/ |
+
+> 如有遗漏或分工标注不准确，请联系仓库维护者更正。
+
 ## 已知限制
 
 - 训练权重未保存，需按脚本重训复现
